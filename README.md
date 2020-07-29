@@ -8,6 +8,7 @@ Market é um projeto que utiliza HTML5, CSS3, PHP, Javascrip, utilizando para pe
 
 Para instalar a versão correta segue: [site oficial do PHP ](https://www.php.net/manual/pt_BR/install.php).
 
+### O programa utiliza o PostgreSQL versão 9.4.
 
 Para instalar a versão correta segue: [site oficial do PostgreSQL ](https://www.postgresql.org/about/news/1592/).
 
